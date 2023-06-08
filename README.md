@@ -1,7 +1,7 @@
 
 # Summar-ai
 
-Summar-ai is an AI article summarizer that transforms lengthy articles into clear and concise summaries. This ReactJS project was setup using Vite, made API calls using Redux Toolkit, and styled with Tailwind CSS. The OpenAI's ChatGPT model API from RapidAPI was used. 
+Summar-ai is an AI article summarizer that transforms lengthy articles into clear and concise summaries. This ReactJS project was setup using Vite, made API calls using Redux Toolkit, and styled with Tailwind CSS. The OpenAI's ChatGPT model API from Rapid API was used. 
 ## Features
 
 - Responsive design
